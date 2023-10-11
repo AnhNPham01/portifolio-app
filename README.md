@@ -1,4 +1,4 @@
-# Kom i gang med å lage din egen portefølje med React, Typescript, Tailwind og Azure.
+# Portefølje med React, Typescript, Tailwind og Azure.
 
 Dette er et kurs holdt av Forte digital for Ada NTNU 9. november 2022.
 
